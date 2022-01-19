@@ -1,0 +1,39 @@
+.heading{
+    font-size: 80px;
+    width: 100%;
+    box-shadow: 5px 5px 5px darkblue;
+    background-color: paleturquoise;
+    color: black;
+    width: fit-content;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.note{
+    font-size: 30px;
+    color: white;
+    background-color: blue;
+    padding-left: 2px;
+    padding-right: 2px;
+    width: fit-content;
+}
+
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    line-height: fit-content;
+    color: black;
+    background-color: turquoise;
+    text-align: center;
+    bottom: 0;
+    font-size: 25px;
+    padding: 2px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px paleturquoise;
+    color: white;
+    background-color: darkblue;
+}
